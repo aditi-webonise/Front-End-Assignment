@@ -1,0 +1,123 @@
+.clearfix{
+	clear: both;
+}
+.header{
+	height: 80px;
+	margin-top: 15px;
+}
+.navbar-default {
+	height: 40px;
+	background-color: #3355aa;
+	color: white;
+	font-style: italic;
+}
+
+#con1{
+	margin-bottom: 45px;
+	margin-top: 35px;
+}
+#banner {
+	max-width: 100% ;
+}
+#searchBtn {
+	background-color: #3355aa;
+
+}
+#ipanel{
+	font-style: italic;
+}
+#iview{
+	font-style: italic;
+	color: #3355aa;
+	font-weight: bold;
+	font-size: 16px;
+}
+#sectorCon{
+	background-color: #D3D3D3;
+}
+
+#sector{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-size: 28px;
+	text-align: center;
+	font-weight: bold;
+}
+#nav1{
+	font-size: 15px;
+}
+#lfoot{
+	font-size: 14px;
+}
+#rfoot{
+	float: right;
+	font-size: 11px;
+}
+.panel{
+	border: 0;
+}
+.nav.navbar-nav li a{
+	color : white;
+	/*font-size: 15px;*/
+
+}
+#box{
+	height: 250px;
+	width : 100%;
+	background-color: #A9A9A9;
+	white-space: 5px;
+}
+#secpanel {
+	color: #3355aa;
+	border-bottom: 0px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: normal;
+}
+#panCon{
+	padding-bottom: 75px;
+
+}
+
+.panel-default >.panel-heading {
+	color: #3355aa;
+	font-size: 16px;
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 2px solid #f7b731;
+}
+.panel-default >.panel-body{
+	font-size: 13px;
+
+}
+.fixed-footer{
+	padding-top: 15px;
+	padding-bottom: 35px;
+	background-color: #333333;
+	font-size: 11px;
+	color: #d3d3d3;
+    bottom: 0;
+
+}
+
+small{
+	font-size: 10px;
+}
+figure {
+	border: 1px solid #ddd; 
+    border-radius: 4px;  
+    padding: 10px; 
+     
+}
+figcaption{
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+}
+
+body{
+	font-family: Georgia;
+	font-size: 13px;
+	font-color: #222222;
+}
