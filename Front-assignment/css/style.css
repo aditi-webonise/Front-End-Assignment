@@ -1,0 +1,150 @@
+.clearfix{
+	clear: both;
+}
+
+.header{
+	height: 80px;
+	margin-top: 15px;
+}
+
+.navbar-default {
+	height: 40px;
+	background-color: #3355aa;
+	color: #ffffff;
+	font-style: italic;
+}
+
+#con1{
+	padding-bottom: 45px;
+	padding-top: 35px;
+}
+
+#banner {
+	max-width: 100% ;
+}
+
+#searchBtn {
+	background-color: #3366aa;
+	border: none;
+
+}
+
+#ipanel{
+	font-style: italic;
+}
+
+#iview{
+	font-style: italic;
+	color: #3355aa;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+#sectorCon{
+	background-color: #D3D3D3;
+}
+
+#sector{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-size: 28px;
+	text-align: center;
+	font-weight: bold;
+}
+
+#ipara{
+	padding-bottom: 10px;
+	border-bottom: 1px solid #D3D3D3;
+}
+
+#nav1{
+	font-size: 15px;
+}
+
+#lfoot{
+	font-size: 14px;
+}
+
+#rfoot{
+	float: right;
+	font-size: 11px;
+}
+
+#foot{
+	border-bottom: 1px solid #3D3D3D;
+}
+
+.panel{
+	border: 0;
+}
+
+.nav.navbar-nav li a{
+	color : white;
+}
+
+#box{
+	height: 250px;
+	width : 100%;
+	background-color: #A9A9A9;
+	white-space: 5px;
+}
+
+#secpanel {
+	color: #3355aa;
+	border-bottom: 0px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+#panCon{
+	padding-bottom: 75px;
+
+}
+
+.panel-default >.panel-heading {
+	color: #3355aa;
+	font-size: 16px;
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 2px solid #f7b731;
+}
+
+.panel-default >.panel-body{
+	font-size: 13px;
+	padding-bottom: 10px;
+
+}
+
+.fixed-footer{
+	padding-top: 15px;
+	padding-bottom: 35px;
+	background-color: #333333;
+	font-size: 11px;
+	color: #d3d3d3;
+    bottom: 0;
+
+}
+
+small{
+	font-size: 10px;
+}
+
+figure {
+	border: 1px solid #ddd; 
+    border-radius: 4px;  
+    padding: 10px; 
+     
+}
+figcaption{
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+}
+
+body{
+	font-family: Georgia;
+	font-size: 13px;
+	font-color: #222222;
+}
